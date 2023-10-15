@@ -2,10 +2,10 @@
 제4회 세종특별자치시 빅데이터 분석 아이디어 공모전 제출물
 
 ## Coworkers
-1. PL : https://github.com/jagara101
-2. PM : https://github.com/jaekim3220
-3. Team Mate : https://github.com/myeongnam
-4. Team Mate : https://github.com/hajinseok11
+1. PL : 김정훈, https://github.com/jagara101
+2. PM : 김재현, https://github.com/jaekim3220
+3. Team Mate : 김명남, https://github.com/myeongnam
+4. Team Mate : 하진석, https://github.com/hajinseok11
 
 
 ## 데이터
